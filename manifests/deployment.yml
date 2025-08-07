@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: tetrisgame 
-          image: mylabacr24.azurecr.io/tetrisgame
+          image: mylabacr222.azurecr.io/tetrisgame
           ports:
           - containerPort: 80
